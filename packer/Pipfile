@@ -7,7 +7,7 @@ verify_ssl = true
 # python code linting
 bandit = "*"
 pylint = "*"
-black = "==19.10b0"
+black = "==24.3.0"
 # for ansible playbook linting
 ansible-lint = "*"
 
